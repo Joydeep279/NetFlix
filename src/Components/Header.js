@@ -15,11 +15,11 @@ const Header = () => {
             viewBox="0 0 512 512"
             xmlns="http://www.w3.org/2000/svg"
             stroke="#ffffff">
-            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+            <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
             <g
               id="SVGRepo_tracerCarrier"
-              stroke-linecap="round"
-              stroke-linejoin="round"></g>
+              strokeLinecap="round"
+              strokeLinejoin="round"></g>
             <g id="SVGRepo_iconCarrier">
               <title>ionicons-v5-l</title>
               <path d="M478.33,433.6l-90-218a22,22,0,0,0-40.67,0l-90,218a22,22,0,1,0,40.67,16.79L316.66,406H419.33l18.33,44.39A22,22,0,0,0,458,464a22,22,0,0,0,20.32-30.4ZM334.83,362,368,281.65,401.17,362Z"></path>
